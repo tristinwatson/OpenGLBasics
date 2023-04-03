@@ -8,5 +8,5 @@ Current pending implentations are:
   Basic Lighting,
   Phong Lighting,
   Texture Rendering,
-  Simulate movement,
-  Simulate camera
+  Simulate Movement,
+  Simulate Camera
